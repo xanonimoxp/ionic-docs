@@ -17,7 +17,7 @@ The `@angular/pwa` package will automatically add a service worker and a app man
 To add this package to the app run:
 
 ```shell
-$ ng add @angular/pwa
+$ npm add @angular/pwa
 ```
 
 Once this package has been added run `ionic build --prod` and the `www` directory will be ready to deploy as a PWA.
